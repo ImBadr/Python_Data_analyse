@@ -1,0 +1,4 @@
+"CodeCli";"Nom";"Prenom";"DateNaiss";"Adresse";"Ville";"CodePostal";"Pays";"Tel"
+"ANATR";"LAZZARI";"Magali";3/8/1986 00:00:00;"Place du théatre";"CAEN";"14 000";"France";"02 48 34 65 37"
+"ANTON";"ADIBO";"Senamé";28/2/1993 00:00:00;" PLACE D'ACTIVITES";"CAEN";"14 000";"France";"02 48 02 43 27"
+"AROUT";"HALGATTE";"Claude";14/3/1987 00:00:00;"4 RUE DE PREVONE";"CAEN";"14 000";"France";"02 46 97 78 21"
